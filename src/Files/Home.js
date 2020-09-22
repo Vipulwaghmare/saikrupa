@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
 
-function Home(){
+const Home = () => {
   return(
     <div className="text-center">
     <h3 className="h3 text-center">Welcome to Saikrupa Lunch Home</h3>
